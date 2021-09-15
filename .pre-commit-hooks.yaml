@@ -1,0 +1,5 @@
+-   id: imagesize
+    name: checks image size
+    entry: check-image-size
+    language: python
+    files: ".*\\.png"
